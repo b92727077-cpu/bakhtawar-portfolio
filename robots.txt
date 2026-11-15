@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b92727077-cpu.github.io/bakhtawar-portfolio/sitemap.xml
